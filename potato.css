@@ -33,7 +33,8 @@ h1 {
 
 /* Insert CSS for eyes below this line*/
 #eyes_image{
-  top
+  top: 110px;
+  left:120px;
 }
 
 
