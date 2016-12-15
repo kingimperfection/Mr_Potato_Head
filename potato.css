@@ -1,3 +1,6 @@
+body {
+  background-color: #333;
+}
 h1 {
   text-align: center;
 }
@@ -7,10 +10,10 @@ h1 {
   position: relative;
   width: 367px;
   height: 500px;
-  border: 2px solid black;
+  border: 2px solid yellow;
   margin-left: auto;
   margin-right: auto;
-  background-color: white;
+  background-image: url(https://c2.staticflickr.com/6/5208/5314450667_f6a43e9fe2_b.jpg);
 }
 
 #potato img {
@@ -22,12 +25,17 @@ h1 {
   top: 28px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
-
-
+#nose_image{ 
+  top: 170px;
+left: 120px;
+}
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image{
+  top: 105px;
+  left: 54px;
+}
 
 
 
@@ -40,6 +48,10 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
+#mouth_image{
+  top: 175px;
+  left:113px;
+}
 
 
 
@@ -56,27 +68,40 @@ h1 {
 
 /* Insert CSS for glasses below this line*/
 
-
+#glasses_image {
+  top: 100px;
+  left: 94px;
+}
 
 
 /* Insert CSS for hat below this line*/
 
-
+#hat_image {
+  top: 5px;
+  left: 105px;
+}
 
 
 /* Insert CSS for arms below this line*/
+#arms_image {
+  top: 175px;
+  left: 26px;
+}
 
-
-
+  
 
 /* Insert CSS for moustache below this line*/
-
+#mouth_image{top:240px;
+left:280;}
 
 
 
 /* Insert CSS for shoes below this line*/
 
-
+#shoes_image {
+  top: 300px;
+  left: 50px;
+}
 
 
 /* Insert CSS for cane below this line*/
